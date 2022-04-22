@@ -1,0 +1,16 @@
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\bin\Debug\net5.0\MethodExrcise.exe
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\bin\Debug\net5.0\MethodExrcise.deps.json
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\bin\Debug\net5.0\MethodExrcise.runtimeconfig.json
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\bin\Debug\net5.0\MethodExrcise.runtimeconfig.dev.json
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\bin\Debug\net5.0\MethodExrcise.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\bin\Debug\net5.0\MethodExrcise.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.csproj.AssemblyReference.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.AssemblyInfoInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.AssemblyInfo.cs
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.csproj.CoreCompileInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\refint\MethodExrcise.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\MethodExrcise.genruntimeconfig.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\MethodExrcise\MethodExrcise\obj\Debug\net5.0\ref\MethodExrcise.dll
